@@ -9,7 +9,7 @@ let pregunta1 = prompt(
 
 switch (pregunta1) {
   case "1":
-    alert("Sincericidia sos. Igual, eso no mejora el sueldo mínimo.");
+    alert("¿Querés plata? Qué loco, nosotros también… pero no para repartirla.");
     break;
   case "2":
     alert("Esa actitud indecisa te va a llevar lejos... lejos de un trabajo.");
