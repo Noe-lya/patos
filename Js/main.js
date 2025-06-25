@@ -127,7 +127,7 @@ let pregunta6 = prompt(
 
 switch (pregunta6) {
   case "1":
-    alert("Perfecto. Tendrás una oficina. Pero en el sotáno. Ojo con la puerta que se traba bastante");
+    alert("Candidato para limpiar baños");
     break;
   case "2":
     alert("Buenas noticias, hay un grupo que necesita asistente");
